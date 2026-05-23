@@ -1,0 +1,5 @@
+# Program 1: Variables and math (Afaan Oromoo keywords)
+haaraa x = 8
+haaraa y = 4
+haaraa z = x + y * 2
+maxxansi("Bu'aa z:", z)

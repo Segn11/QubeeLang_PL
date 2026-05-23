@@ -1,0 +1,6 @@
+# Simple example: sum two numbers (Afaan Oromoo)
+haaraa x = 7
+haaraa y = 5
+haaraa s = x + y
+haaraa z = x + x + y
+maxxansi("Waliigala:", s, z)

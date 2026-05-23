@@ -1,0 +1,14 @@
+# Afaan Oromoo example: factorial
+hojii faktooriyal(n):
+    haaraa i = 1
+    haaraa res = 1
+    yeroo i < (n + 1):
+        res = res * i
+        i = i + 1
+    xumur
+    deebi res
+xumur
+
+haaraa num = 6
+haaraa ans = faktooriyal(num)
+maxxansi('Faktooriyal', num, '=', ans)

@@ -1,0 +1,7 @@
+# Program 3: Functions and return (Afaan Oromoo keywords)
+hojii multiply_by_four(x):
+    deebi x * 4
+xumur
+
+haaraa result = multiply_by_four(6)
+maxxansi("Bu'aa =", result)

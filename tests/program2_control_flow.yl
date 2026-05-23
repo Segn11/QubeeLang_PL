@@ -1,0 +1,14 @@
+# Program 2: if/else and while (Afaan Oromoo keywords)
+haaraa n = 5
+haaraa total = 0
+
+yeroo n > 0:
+    total = total + n
+    n = n - 1
+xumur
+
+yoo total > 10:
+    maxxansi("Waliigala guddaa:", total)
+yookan:
+    maxxansi("Waliigala xiqqaa:", total)
+xumur
