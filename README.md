@@ -87,4 +87,6 @@ c:/Users/USER/Desktop/pl_prj/.venv/Scripts/python.exe x.py
 - Required language constructs: completed
 - Valid executable Python output: completed
 
-  
+  ## group members
+  1. segni nadew ugr/31205/15
+  2. deressa fufa ugr/30410/15
