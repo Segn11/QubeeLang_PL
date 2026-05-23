@@ -87,5 +87,4 @@ c:/Users/USER/Desktop/pl_prj/.venv/Scripts/python.exe x.py
 - Required language constructs: completed
 - Valid executable Python output: completed
 
-  ## group members
   
