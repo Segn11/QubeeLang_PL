@@ -86,3 +86,6 @@ c:/Users/USER/Desktop/pl_prj/.venv/Scripts/python.exe x.py
 - No pure text replacement: completed
 - Required language constructs: completed
 - Valid executable Python output: completed
+
+  ## group members
+  
